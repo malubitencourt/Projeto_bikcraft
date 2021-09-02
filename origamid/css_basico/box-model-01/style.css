@@ -1,0 +1,36 @@
+h1 {
+  color: #000000;
+  font-size: 36px;
+}
+h2 {
+  font-display: center;
+  color: #ffffff;
+  font-style: italic;
+  font-size: 18px;
+}
+body {
+  background-color: #fec63e;
+}
+.container {
+  width: 800px;
+  height: 500px;
+  margin: 0 auto;
+  background: #ddd;
+}
+
+.box-1 {
+  width: 200px;
+  height: 80px;
+  background: #aaa;
+  padding: 20px 60px;
+  border-bottom: 10px solid #000;
+}
+
+.box-2 {
+  width: 200px;
+  height: 80px;
+  background: #aaa;
+  padding: 10px 20px;
+  border-bottom: 10px solid #000;
+  margin: 50px 20px;
+}

@@ -1,0 +1,17 @@
+body {
+  background-color: #333;
+  height: 5000px;
+  background-image: url("principais-tags-img/bikcraft-passeio.jpg");
+  background-repeat: repeat-y;
+  background-position: center;
+}
+
+div {
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+  background-image: url("principais-tags-img/bikcraft-retro.jpg");
+  background-size: cover;
+  text-align: center;
+  box-shadow: 10px 10px 5px;
+}

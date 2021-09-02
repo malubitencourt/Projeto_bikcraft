@@ -1,0 +1,32 @@
+h1 {
+  color: #000000;
+  font-size: 36px;
+}
+h2 {
+  color: #ffffff;
+  font-style: italic;
+  font-size: 18px;
+}
+body {
+  background-color: #fec63e;
+}
+div {
+  background-color: #000000;
+  color: #fec63e;
+  height: 200px;
+  width: 200px;
+  margin-bottom: 5px;
+  padding: 20px;
+}
+div p,
+a {
+  color: white;
+}
+a {
+  width: 100px;
+  height: 25px;
+  background-color: #fec63e;
+}
+a:hover {
+  font-size: 20px;
+}
